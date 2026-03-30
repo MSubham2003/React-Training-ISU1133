@@ -1,0 +1,10 @@
+1.Three major platforms using React (Meta ecosystem):
+    Facebook
+    Instagram
+    WhatsApp Web
+
+Reusable components:
+Facebook → Post Card (user post UI reused across feed)
+Instagram → Story Circle / Post Grid Item
+WhatsApp Web → Chat Message Bubble
+

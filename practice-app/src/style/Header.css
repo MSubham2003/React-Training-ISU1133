@@ -1,0 +1,22 @@
+nav {
+  background-color: #1a1a1a;
+  padding: 10px 20px;
+}
+
+ul {
+  list-style: none;        /* removes bullets */
+  display: flex;           /* makes items in one line */
+  gap: 20px;               /* spacing between items */
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+li a:hover {
+  color: #61dafb;
+}
