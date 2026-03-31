@@ -5,9 +5,9 @@ function Header() {
   return (
     <nav >
         <ul>
-            <li><a href='/' onClick={(e)=>{e.preventDefault()}}>Home</a></li>
-            <li><a href='/about' onClick={(e)=>{e.preventDefault()}}>About</a></li>
-            <li><a href='/contact' onClick={(e)=>{e.preventDefault()}}>Contact</a></li>
+            <li><a href='/'>Home</a></li>
+            <li><a href='/about'>About</a></li>
+            <li><a href='/contact'>Contact</a></li>
         </ul>
     </nav>
   )
